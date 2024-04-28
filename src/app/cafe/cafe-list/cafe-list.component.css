@@ -21,3 +21,14 @@
 .table-container {
   max-width: 70%; /* Define el ancho máximo de la tabla */
 }
+
+p {
+  margin-bottom: 0.5rem; /* Puedes ajustar este valor según tus preferencias */
+}
+
+.footer {
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  padding: 10px 0; /* Puedes ajustar el padding según tus preferencias */
+}
